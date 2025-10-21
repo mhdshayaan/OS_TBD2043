@@ -1,7 +1,7 @@
 # ⚙️ TDB 2043 Operating System
 
-👨‍💻 **Nishi Kenshin**  
-🎓 *Student ID:* 22011752  
+👨‍💻 **Mohammed Shayaan**  
+🎓 *Student ID:* 24004734
 📚 *Course:* TDB 2043 
 
 ---
@@ -10,9 +10,9 @@
 
 | 📅 **Date** | 💻 **Lab Tasks** |
 |-------------|------------------|
-| 25/10/02 | 🧩 [**Task 01 - System Calls of UNIX (opendir, readdir, closedir)**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_02/task1.cpp)<br>🔧 [**Task 02 - System Calls of UNIX (fork, getpid, exit)**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_02/task2.cpp) |
-| 25/10/09 | 🗂️ [**Task 01 - Simulation of cp Command**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_09/task1.cpp)<br>📁 [**Task 02 - Simulation of ls Command**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_09/task2.cpp)<br>🔍 [**Task 03 - Simulation of grep Command**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_09/task3.cpp) |
-| 25/10/16 | 💡 [**Task 01 - Shell Program: Even or Odd**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task1.sh)<br>🌙 [**Task 02 - Shell Program: Checking Leap Year**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task2.sh)<br>🧮 [**Task 03 - Shell Program: Factorial of a Number**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task3.sh)<br>🔁 [**Task 04 - Shell Program: Swap Two Numbers**](https://github.com/n1shikenshin/TDB2043_OS/blob/main/25_10_16/task4.sh) |
+| 25/10/02 | 🧩 [**Task 01 - System Calls of UNIX (opendir, readdir, closedir)**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_02-Task1-2/task_1.c)<br>🔧 [**Task 02 - System Calls of UNIX (fork, getpid, exit)**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_02-Task1-2/task_2.c) |
+| 25/10/09 | 🗂️ [**Task 01 - Simulation of cp Command**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task_1.c)<br>📁 [**Task 02 - Simulation of ls Command**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task_2.c)<br>🔍 [**Task 03 - Simulation of grep Command**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task_3.c) |
+| 25/10/16 | 💡 [**Task 01 - Shell Program: Even or Odd**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task_1.sh)<br>🌙 [**Task 02 - Shell Program: Checking Leap Year**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task_2.sh)<br>🧮 [**Task 03 - Shell Program: Factorial of a Number**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task_3.sh)<br>🔁 [**Task 04 - Shell Program: Swap Two Numbers**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task_4.sh) |
 
 ---
 
@@ -36,7 +36,7 @@ Code is written in **C++** and follows clean, readable standards.
 ---
 
 ## 🌟 Author
-**Nishi Kenshin**  
-📫 [GitHub Profile →](https://github.com/n1shikenshin)
+**Mohammed Shayaan**  
+📫 [GitHub Profile →](https://github.com/mhdshayaan)
 
 > “Code it. Debug it. Learn it.” 🧠
