@@ -39,4 +39,4 @@ Code is written in **C++** and follows clean, readable standards.
 **Mohammed Shayaan**  
 📫 [GitHub Profile →](https://github.com/mhdshayaan)
 
-> “Code it. Debug it. Learn it.” 🧠
+> “Code it. Commit it. Ship it.” 🧠
